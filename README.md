@@ -77,4 +77,3 @@ The application is functional and in active use. Planned improvements include:
 - Automatically calculating aggregate statistics (e.g., highest-rated films)
 - Automating email summaries when new rounds begin
 - Integrating third-party APIs to enrich the UI (e.g., displaying poster artwork and metadata for highlighted films)
-
